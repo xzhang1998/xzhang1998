@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Xiaohan and you can call me Katherine as well!
+- 👋 Hi, I’m Katherine and currently pursuing my Master's degree of Data Science~
 - 👀 I’m interested in data analytics and familiar with Python and SQL :)
 - :heartpulse: Machine Learning and Statistics are both amazing subjects!
 - 🌱 I’m currently learning data structure and Java.
