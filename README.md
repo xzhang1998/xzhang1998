@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Katherine and currently looking for a summer SDE internship opportunity starting from May 2023~
-- :heartpulse: I'm still a student pursuing Master's degree in Applied Data Science
+- :heartpulse: I'm still a student pursuing Master's degree in Applied Data Science :)
 - 🌱 I'm fascinated by software development and I’m currently developing my own projects!
 
 <!---
